@@ -1,1 +1,27 @@
-<img src="image.png" alt="my photo"
+p{color: rebeccapurple;}
+
+.paragraph {width: 300px; height: 100px; border: 1px solid black;
+margin: 55px;  color: blue;
+font-family: 'Courier New', Courier, monospace;}
+
+
+.special {color: blueviolet;}
+
+.item {background-color: brown;
+border: 1px solid black;
+padding: 5px;;}
+
+.listitem {background-color: aliceblue;
+
+    border: 1px solid black;
+    
+    padding: 5px;;}
+    
+    .image {width: 100vh; height: 50vh;}
+    .div { width: 50%;}
+.coolimage {
+    width: 100px;
+    height: 100px;
+    background: url(https://klike.net/uploads/posts/2019-05/1556708032_1.jpg);
+    background-size: cover;}
+    
